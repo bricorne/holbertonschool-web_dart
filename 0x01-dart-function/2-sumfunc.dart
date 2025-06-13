@@ -1,5 +1,3 @@
-// 2-sumfunc.dart
-
 int add(int a, int b) {
   return a + b;
 }

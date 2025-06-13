@@ -1,5 +1,3 @@
-// 4-outer_inner.dart
-
 void outer(String name, String id) {
   String inner() {
     var parts = name.split(' ');
